@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luanbekteshi
-- 👀 I’m interested in .NET Core
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in .NET Core , ReactJS
 - 📫 Reach me : luanbekteshi@gmail.com
 
 <!---
